@@ -1,0 +1,218 @@
+body{
+    
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   
+    
+}
+
+h1{
+    font-size: 562%;
+    margin-top: 50px auto 0 auto;
+    color:#256D85;
+    font-family: 'Merriweather', cursive;
+    
+  
+}
+
+h2{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5ren;
+    font-weight: normal;
+    color:#256D85;
+    padding-bottom: 10px
+    
+}
+   
+h3{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+    
+}
+
+p{
+    
+   line-height: 2; 
+    
+}
+
+hr{
+    
+    border: dotted #002B5B 5px;
+    border-bottom: none;
+    width: 75%;
+    margin: 100px auto;
+    
+}
+
+
+
+
+
+
+
+
+.top-container{
+    
+    background-color: #94B49F;
+    position: relative;
+    padding-top: 100px;
+    
+ 
+}
+
+
+.middle-container{
+    
+   margin: 100px 0; 
+}
+
+.bottom-container{
+    
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+
+
+
+
+.skill-row{
+    
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    
+}
+
+
+
+
+
+
+
+
+.bottom-cloud{
+    
+    position: absolute;
+    right: 250px;
+    top: 50px;
+    
+}
+
+.intro{
+    
+    width: 30%;
+    margin: auto;
+}
+
+.contact-msg{
+    
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright{
+    
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top-cloud{
+    
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+    
+}
+
+.gym{
+    
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.computer{
+    
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.btn{
+  font-size:16px;
+  font-family: 'Merriweather', serif;
+  width:163px;
+  height:58px;
+  border-width:1px;
+  color:#fff;
+  border-color:#599bb3;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 10px 14px -7px #276873;
+  text-shadow: 0px 1px 0px #3d768a;
+  background:linear-gradient(#599bb3, #408c99);
+}
+
+.btn:hover {
+  background: linear-gradient(#408c99, #599bb3);
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
